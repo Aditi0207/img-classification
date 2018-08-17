@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/zt/Documents/Image_Classification/image-classifier"
+all_model_checkpoint_paths: "/home/zt/Documents/Image_Classification/image-classifier"
